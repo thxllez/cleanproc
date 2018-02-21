@@ -1,0 +1,13 @@
+D:\Tiago\Arcelor\Kill_Java\CleanProc\CleanProc\bin\Release\CleanProc.exe.config
+D:\Tiago\Arcelor\Kill_Java\CleanProc\CleanProc\bin\Release\CleanProc.exe
+D:\Tiago\Arcelor\Kill_Java\CleanProc\CleanProc\bin\Release\CleanProc.pdb
+D:\Tiago\Arcelor\Kill_Java\CleanProc\CleanProc\obj\Release\CleanProc.exe
+D:\Tiago\Arcelor\Kill_Java\CleanProc\CleanProc\obj\Release\CleanProc.pdb
+D:\Tiago\Arcelor\Kill_Java\CleanProc\CleanProc\obj\Release\CleanProc.csprojResolveAssemblyReference.cache
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\bin\Release\CleanProc.exe.config
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\bin\Release\CleanProc.exe
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\bin\Release\CleanProc.pdb
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\obj\Release\CleanProc.csprojResolveAssemblyReference.cache
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\obj\Release\CleanProc.csproj.CoreCompileInputs.cache
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\obj\Release\CleanProc.exe
+C:\Users\lc_be_000\Downloads\CleanProc\CleanProc\obj\Release\CleanProc.pdb
